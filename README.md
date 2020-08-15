@@ -141,7 +141,7 @@ step - 4 to create  controller ThumbnailController
 
 
 
-Step -5 Upate ffmpeg of your linux server
+Step -5 Update ffmpeg path in your config/thumbnail.php
 
 		
 		<?php
